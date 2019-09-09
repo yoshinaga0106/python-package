@@ -3,13 +3,13 @@ A template of python package
 
 ## Install
 ```
-git clone
+git clone XXX
 cd python-package
 pipenv install -e .
 ```
 or
 ```
-pip install 
+pip install XXX
 ```
 
 ## Run
