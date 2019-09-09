@@ -16,3 +16,11 @@ pip install XXX
 ```
 pipenv run python XXX
 ```
+or 
+```
+# enter the virtual environment
+pipenv shell
+# In the virtual environment
+python XXX
+```
+
